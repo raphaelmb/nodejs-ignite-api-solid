@@ -1,6 +1,6 @@
 ## FRs (Functional Requirements)
 
-- [] Should be able to register;
+- [x] Should be able to register;
 - [] Should be able to authenticate;
 - [] Should be able to get the profile of a logged in user;
 - [] Should be able to get a number of check-ins done by the logged in user;
@@ -13,7 +13,7 @@
 
 ## BL (Business Logic)
 
-- [] The user should not be able to register with an registered email;
+- [x] The user should not be able to register with an registered email;
 - [] The user should not do 2 check-ins on the same day;
 - [] The user should not check-in if he's not close (at least 100m) to the gym;
 - [] The check-in should be validated up to 20 minutes after created;
@@ -22,7 +22,7 @@
 
 ## NFRs (Non Functional Requirements)
 
-- [] The user's password should be encrypted;
-- [] The app's data should be saved in a PostgreSQL database;
+- [x] The user's password should be encrypted;
+- [x] The app's data should be saved in a PostgreSQL database;
 - [] All data lists should be paginated with 20 items per per page;
 - [] The user should be identified with a JWT;
