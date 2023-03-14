@@ -7,15 +7,15 @@
 - [] Should be able to the user to get his check-in history;
 - [] Should be able to the user to find nearby gyms;
 - [] Should be able to the user to find gyms by name;
-- [] Should be able to the user to check-in in a gym;
+- [x] Should be able to the user to check-in in a gym;
 - [] Should be able to validate a user's check-in;
 - [] Should be able to register a gym;
 
 ## BL (Business Logic)
 
 - [x] The user should not be able to register with an registered email;
-- [] The user should not do 2 check-ins on the same day;
-- [] The user should not check-in if he's not close (at least 100m) to the gym;
+- [x] The user should not do 2 check-ins on the same day;
+- [x] The user should not check-in if he's not close (at least 100m) to the gym;
 - [] The check-in should be validated up to 20 minutes after created;
 - [] The check-in should be validated by admins only;
 - [] The gym should be registered by admin only;
