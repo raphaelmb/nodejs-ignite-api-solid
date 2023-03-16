@@ -4,12 +4,12 @@
 - [x] Should be able to authenticate;
 - [x] Should be able to get the profile of a logged in user;
 - [] Should be able to get a number of check-ins done by the logged in user;
-- [] Should be able to the user to get his check-in history;
+- [x] Should be able to the user to get his check-in history;
 - [] Should be able to the user to find nearby gyms;
 - [] Should be able to the user to find gyms by name;
 - [x] Should be able to the user to check-in in a gym;
 - [] Should be able to validate a user's check-in;
-- [] Should be able to register a gym;
+- [x] Should be able to register a gym;
 
 ## BL (Business Logic)
 
@@ -24,5 +24,5 @@
 
 - [x] The user's password should be encrypted;
 - [x] The app's data should be saved in a PostgreSQL database;
-- [] All data lists should be paginated with 20 items per per page;
+- [x] All data lists should be paginated with 20 items per per page;
 - [] The user should be identified with a JWT;
