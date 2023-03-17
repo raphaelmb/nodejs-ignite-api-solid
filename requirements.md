@@ -3,7 +3,7 @@
 - [x] Should be able to register;
 - [x] Should be able to authenticate;
 - [x] Should be able to get the profile of a logged in user;
-- [] Should be able to get a number of check-ins done by the logged in user;
+- [x] Should be able to get a number of check-ins done by the logged in user;
 - [x] Should be able to the user to get his check-in history;
 - [] Should be able to the user to find nearby gyms;
 - [] Should be able to the user to find gyms by name;
