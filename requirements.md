@@ -5,7 +5,7 @@
 - [x] Should be able to get the profile of a logged in user;
 - [x] Should be able to get a number of check-ins done by the logged in user;
 - [x] Should be able to the user to get his check-in history;
-- [] Should be able to the user to find nearby gyms;
+- [x] Should be able to the user to find nearby gyms (10km max);
 - [x] Should be able to the user to find gyms by name;
 - [x] Should be able to the user to check-in in a gym;
 - [] Should be able to validate a user's check-in;
