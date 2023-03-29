@@ -17,12 +17,12 @@
 - [x] The user should not do 2 check-ins on the same day;
 - [x] The user should not check-in if he's not close (at least 100m) to the gym;
 - [x] The check-in should be validated up to 20 minutes after created;
-- [] The check-in should be validated by admins only;
-- [] The gym should be registered by admin only;
+- [x] The check-in should be validated by admins only;
+- [x] The gym should be registered by admin only;
 
 ## NFRs (Non Functional Requirements)
 
 - [x] The user's password should be encrypted;
 - [x] The app's data should be saved in a PostgreSQL database;
 - [x] All data lists should be paginated with 20 items per per page;
-- [] The user should be identified with a JWT;
+- [x] The user should be identified with a JWT;
